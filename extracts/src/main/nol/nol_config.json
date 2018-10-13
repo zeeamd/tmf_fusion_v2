@@ -1,0 +1,13 @@
+{
+  "intab_prd_id" : "1302018307",
+  "intab_prd_stdt" : "2018-07-01",
+  "intab_prd_endt" :"2018-07-31",
+  "sch_nm": "digital_nol_convergence_us",
+  "tab_nm": "etl_report_credit_monthly_sdf",
+  "brndvw_nm": "etl_top200sites_brand_v",
+  "chnvw_nm": "etl_top200sites_channels_v",
+  "parvw_nm": "etl_top200sites_parents_v",
+  "fpath": "/tmp",
+  "level": "simple"
+}
+
